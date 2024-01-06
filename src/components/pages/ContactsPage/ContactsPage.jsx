@@ -4,6 +4,7 @@ import { Filter } from 'components/Filter/Filter';
 import { ContactList } from 'components/ContactList/ContactList';
 import { Outlet } from 'react-router-dom';
 import css from './ContactsPage.module.css';
+
 export default function ContactsPage() {
   return (
     <div>
